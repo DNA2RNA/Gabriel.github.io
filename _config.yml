@@ -1,9 +1,43 @@
-# Welcome to Jekyll!
+# -----------------------------------------------------------------------------
+# Site Settings (Personal)
+# -----------------------------------------------------------------------------
+# These settings define your personal brand for the site.
 
-# -- Site Settings --
-title: My Awesome Blog          # Appears in the browser tab and site header
-description: A blog about my projects and thoughts.
+title: Gabriel Lopez, PhD
+description: "Co-founder & CEO of Synvivia. Exploring synthetic biology, AI, and the future of biopharmaceutical manufacturing."
+author: Gabriel Lopez
 
-# -- Theme Settings --
-remote_theme: broccolini/swiss  # This tells GitHub to use the Swiss theme
-theme_color: black              # You can change this to blue, red, etc.
+# -----------------------------------------------------------------------------
+# Contact & Social Links
+# -----------------------------------------------------------------------------
+# Add your personal social/professional links here.
+
+email: your-personal-email@example.com # IMPORTANT: Replace with your contact email
+github_username: DNA2RNA
+linkedin_url: "https://www.linkedin.com/in/your-profile-url/" # IMPORTANT: Add your personal LinkedIn URL
+# twitter_username: YourTwitterHandle  # Uncomment and add your Twitter if you use it
+
+# -----------------------------------------------------------------------------
+# Build Settings (Technical)
+# -----------------------------------------------------------------------------
+# These are correctly set for your site. No changes needed here.
+
+url: "https://DNA2RNA.github.io"
+baseurl: ""
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# -----------------------------------------------------------------------------
+# Theme Settings
+# -----------------------------------------------------------------------------
+# This tells Jekyll to use the Swiss theme.
+
+remote_theme: broccolini/swiss
+theme_color: white
