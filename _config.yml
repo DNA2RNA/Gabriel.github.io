@@ -1,0 +1,9 @@
+# Welcome to Jekyll!
+
+# -- Site Settings --
+title: My Awesome Blog          # Appears in the browser tab and site header
+description: A blog about my projects and thoughts.
+
+# -- Theme Settings --
+remote_theme: broccolini/swiss  # This tells GitHub to use the Swiss theme
+theme_color: black              # You can change this to blue, red, etc.
