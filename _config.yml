@@ -10,8 +10,8 @@ github_username: "DNA2RNA" # The theme might use this, so it's good to keep.
 linkedin_url: ""
 
 # Theme Settings
-remote_theme: broccolini/swiss
-theme_color: blue
+#remote_theme: broccolini/swiss
+#theme_color: blue
 
 # Build settings (DO NOT CHANGE)
 url: "https://DNA2RNA.github.io"
