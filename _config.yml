@@ -4,9 +4,10 @@ description: "Co-founder & CEO of Synvivia. Exploring synthetic biology, AI, and
 author: Gabriel Lopez
 
 # Contact & Social Links
-# email: your-personal-email@example.com # <-- EDIT THIS
-# github_username: DNA2RNA
-# linkedin_url: "https://www.linkedin.com/in/your-profile-url/" # <-- EDIT THIS
+# Leave the value empty ("") for any links you don't want to display yet.
+email: ""
+github_username: "DNA2RNA" # The theme might use this, so it's good to keep.
+linkedin_url: ""
 
 # Theme Settings
 remote_theme: broccolini/swiss
