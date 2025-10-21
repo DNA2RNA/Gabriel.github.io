@@ -1,43 +1,17 @@
-# -----------------------------------------------------------------------------
-# Site Settings (Personal)
-# -----------------------------------------------------------------------------
-# These settings define your personal brand for the site.
-
+# Personal Site Settings
 title: Gabriel Lopez, PhD
 description: "Co-founder & CEO of Synvivia. Exploring synthetic biology, AI, and the future of biopharmaceutical manufacturing."
 author: Gabriel Lopez
 
-# -----------------------------------------------------------------------------
 # Contact & Social Links
-# -----------------------------------------------------------------------------
-# Add your personal social/professional links here.
-
-# email: your-personal-email@example.com # IMPORTANT: Replace with your contact email
+# email: your-personal-email@example.com # <-- EDIT THIS
 # github_username: DNA2RNA
-# linkedin_url: "https://www.linkedin.com/in/your-profile-url/" # IMPORTANT: Add your personal LinkedIn URL
-# twitter_username: YourTwitterHandle  # Uncomment and add your Twitter if you use it
+# linkedin_url: "https://www.linkedin.com/in/your-profile-url/" # <-- EDIT THIS
 
-# -----------------------------------------------------------------------------
-# Build Settings (Technical)
-# -----------------------------------------------------------------------------
-# These are correctly set for your site. No changes needed here.
+# Theme Settings
+remote_theme: broccolini/swiss
+theme_color: blue
 
+# Build settings (DO NOT CHANGE)
 url: "https://DNA2RNA.github.io"
 baseurl: ""
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
-# -----------------------------------------------------------------------------
-# Theme Settings
-# -----------------------------------------------------------------------------
-# This tells Jekyll to use the Swiss theme.
-
-remote_theme: broccolini/swiss
-theme_color: white
