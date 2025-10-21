@@ -12,6 +12,10 @@ linkedin_url: ""
 # Theme Settings
 #remote_theme: broccolini/swiss
 #theme_color: blue
+# ----------------------------------------------------
+# THEME SETTING - THIS IS THE ONLY MAJOR CHANGE
+# ----------------------------------------------------
+theme: minima
 
 # Build settings (DO NOT CHANGE)
 url: "https://DNA2RNA.github.io"
